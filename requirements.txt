@@ -1,6 +1,5 @@
 Flask
 pandas
-pandas-ta
 requests
 python-dotenv
 gunicorn
